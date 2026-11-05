@@ -1,0 +1,15 @@
+{
+  "name": "bloghub",
+  "version": "1.0.0",
+  "description": "BlogHub – Full-Stack Modern Blogging Platform with Comments",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "install:all": "npm --prefix backend install && npm --prefix frontend install"
+  },
+  "keywords": ["blog", "mern", "react", "node", "express", "mongodb"],
+  "author": "BlogHub Team",
+  "license": "MIT"
+}
+
