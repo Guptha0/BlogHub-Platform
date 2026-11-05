@@ -1,4 +1,4 @@
-# 🚀 BlogHub v3.0 Enterprise Edition
+# 🚀 BlogHub  Enterprise Edition
 ### *The Next-Generation AI-Native Publishing, Community & Creator Monetization Platform*
 
 [![Node.js](https://img.shields.io/badge/Node.js-v26.0+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
